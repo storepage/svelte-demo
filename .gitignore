@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# github repo
+.git*
+
+# svelte ignore
+svelte/test/
