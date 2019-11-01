@@ -15,3 +15,9 @@ github repo
 ```shell
  git clone https://github.com/sveltejs/svelte.git
 ```
+
+## svelte-todo
+
+```shell
+git clone https://github.com/mvolkmann/svelte-todo.git
+```
